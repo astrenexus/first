@@ -627,7 +627,7 @@
 		      </div>
               </form>
               <?php     
-$to_email = 'name @ company . com';
+$to_email = 'aspirelooks@gmail.com';
 $subject = 'Testing PHP Mail';
 $message = 'This mail is sent using the PHP mail function';
 $headers = 'From: noreply @ company . com';
